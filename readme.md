@@ -77,6 +77,7 @@ Framework-agnostic or multi-framework starter kits sold or maintained as a stand
 - [Nextacular](https://github.com/nextacular/nextacular) - Multi-tenant SaaS starter kit on Next.js, Prisma, and Stripe, with custom domains and workspaces out of the box.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-focused boilerplate with SSO/SAML, teams, webhooks, and Stripe billing.
 - [Makerkit Next.js Supabase SaaS Starter Kit (Lite)](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Free version of MakerKit's Supabase-backed Next.js starter.
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - MIT-licensed Next.js 15 starter with self-contained auth (Google/GitHub OAuth and email/password, no hosted auth vendor), Stripe subscriptions, teams, and Postgres via Drizzle.
 
 ## Auth & Multi-Tenancy
 
