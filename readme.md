@@ -16,18 +16,43 @@ A curated list of open source and source-available starter kits, boilerplates, a
 
 ## Contents
 
+- [PHP](#php)
+  - [Laravel](#laravel)
+  - [Symfony](#symfony)
+- [Python & Django](#python--django)
+- [Ruby on Rails](#ruby-on-rails)
 - [Full-Stack Starter Kits](#full-stack-starter-kits)
   - [Free & Open Source](#free--open-source)
   - [Paid & Source-Available](#paid--source-available)
 - [Next.js](#nextjs)
-- [Laravel](#laravel)
-- [Django & Python](#django--python)
-- [Ruby on Rails](#ruby-on-rails)
 - [Auth & Multi-Tenancy](#auth--multi-tenancy)
 - [Billing & Payments](#billing--payments)
 - [Related Lists](#related-lists)
 
 <!-- CONTENT -->
+
+## PHP
+
+### Laravel
+
+- [Laravel Starter Kits](https://laravel.com/starter-kits) - Official React, Vue, and Livewire scaffolding maintained by the Laravel team; the baseline most Laravel SaaS kits build on.
+- [Wave](https://github.com/thedevdojo/wave) - MIT-licensed starter kit built on Voyager, with subscription billing via Stripe or Paddle, roles, a blog, and an admin panel.
+- [Electrik](https://github.com/electrikhq/electrik) - Source-available Laravel 12 + Livewire 3 + Tailwind 4 starter kit with Cashier billing, teams, and roles.
+- [Laravel-SaaS-Starter-Kit](https://github.com/skanderbenali/Laravel-SaaS-Starter-Kit) - Multi-tenant starter with team management, role-based permissions, and subscription billing.
+
+### Symfony
+
+- [Parthenon](https://github.com/getparthenon/parthenon) - Symfony SaaS bundle plus a skeleton app covering auth, teams, and Stripe subscriptions; the bundle is Business Source Licensed (converts to GPLv3 after 3 years, free below $5k/month revenue), the skeleton is MIT.
+
+## Python & Django
+
+- [SaaS Pegasus (Open Source Edition)](https://github.com/saaspegasus/django-boilerplate) - MIT-licensed foundation of the paid SaaS Pegasus product, with a modern front-end stack ready out of the box.
+- [Django-SAAS-Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Lightweight open source Django starter for bootstrapping SaaS projects.
+
+## Ruby on Rails
+
+- [Bullet Train](https://github.com/bullet-train-co/bullet_train) - MIT-licensed "Rails on Rails" template with team management, roles, subscriptions, i18n, and generator-driven scaffolding.
+- [Jumpstart Pro](https://jumpstartrails.com/) - Paid Rails SaaS template with multitenancy, Stripe/PayPal billing, and Hotwire/Turbo throughout.
 
 ## Full-Stack Starter Kits
 
@@ -52,23 +77,6 @@ Framework-agnostic or multi-framework starter kits sold or maintained as a stand
 - [Nextacular](https://github.com/nextacular/nextacular) - Multi-tenant SaaS starter kit on Next.js, Prisma, and Stripe, with custom domains and workspaces out of the box.
 - [BoxyHQ SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise-focused boilerplate with SSO/SAML, teams, webhooks, and Stripe billing.
 - [Makerkit Next.js Supabase SaaS Starter Kit (Lite)](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Free version of MakerKit's Supabase-backed Next.js starter.
-
-## Laravel
-
-- [Laravel Starter Kits](https://laravel.com/starter-kits) - Official React, Vue, and Livewire scaffolding maintained by the Laravel team; the baseline most Laravel SaaS kits build on.
-- [Wave](https://github.com/thedevdojo/wave) - MIT-licensed starter kit built on Voyager, with subscription billing via Stripe or Paddle, roles, a blog, and an admin panel.
-- [Electrik](https://github.com/electrikhq/electrik) - Source-available Laravel 12 + Livewire 3 + Tailwind 4 starter kit with Cashier billing, teams, and roles.
-- [Laravel-SaaS-Starter-Kit](https://github.com/skanderbenali/Laravel-SaaS-Starter-Kit) - Multi-tenant starter with team management, role-based permissions, and subscription billing.
-
-## Django & Python
-
-- [SaaS Pegasus (Open Source Edition)](https://github.com/saaspegasus/django-boilerplate) - MIT-licensed foundation of the paid SaaS Pegasus product, with a modern front-end stack ready out of the box.
-- [Django-SAAS-Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) - Lightweight open source Django starter for bootstrapping SaaS projects.
-
-## Ruby on Rails
-
-- [Bullet Train](https://github.com/bullet-train-co/bullet_train) - MIT-licensed "Rails on Rails" template with team management, roles, subscriptions, i18n, and generator-driven scaffolding.
-- [Jumpstart Pro](https://jumpstartrails.com/) - Paid Rails SaaS template with multitenancy, Stripe/PayPal billing, and Hotwire/Turbo throughout.
 
 ## Auth & Multi-Tenancy
 
