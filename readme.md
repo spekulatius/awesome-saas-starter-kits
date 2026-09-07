@@ -62,6 +62,7 @@ Framework-agnostic or multi-framework starter kits sold or maintained as a stand
 
 - [Open SaaS](https://github.com/wasp-lang/open-saas) - Free, MIT-licensed React/Node.js boilerplate powered by the Wasp full-stack framework, with auth, Stripe/Polar payments, background jobs, and email sending built in.
 - [create-t3-app](https://github.com/t3-oss/create-t3-app) - CLI scaffolder for the T3 Stack (Next.js, tRPC, Prisma/Drizzle, Tailwind, NextAuth); a minimal, unopinionated foundation rather than a batteries-included SaaS kit.
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) - Free MIT fullstack SaaS monorepo (React, Hono, Vite, Postgres) with Electron, Expo, browser extension, CLI, and MCP.
 
 ### Paid & Source-Available
 
