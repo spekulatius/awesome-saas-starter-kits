@@ -68,6 +68,7 @@ Framework-agnostic or multi-framework starter kits sold or maintained as a stand
 - [ShipFast](https://shipfa.st/) - One-time-purchase Next.js boilerplate popular in the indie hacker community, bundling auth, Stripe payments, transactional emails, and SEO.
 - [Supastarter](https://supastarter.dev/) - Next.js, Nuxt, and SvelteKit starter kit built on better-auth, with billing, multi-tenancy, and internationalization included.
 - [MakerKit](https://makerkit.dev/) - Next.js or Remix SaaS starter kits for Supabase or Firebase; free "lite" versions are open source, with a paid Pro tier adding billing and multi-tenancy.
+- [Helpful Mods Foundation Kit](https://helpfulmods.com/foundation/) - React and Vite SaaS starter with Firebase sign-in, PostgreSQL, Stripe billing, team workspaces, full source code, and tests ($199 one-time).
 
 ## Next.js
 
